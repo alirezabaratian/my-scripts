@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Install dependencies
 sudo apt install -y curl gnupg2 ca-certificates lsb-release debian-archive-keyring
