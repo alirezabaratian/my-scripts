@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 function main() {
     echo "This script allocates a swap partition and makes it persistant after reboots."

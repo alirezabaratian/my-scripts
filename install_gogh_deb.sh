@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 sudo apt update
 sudo apt-get install dconf-cli uuid-runtime

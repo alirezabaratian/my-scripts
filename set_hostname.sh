@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 read -p "Enter your hostname: " HOST_NAME
 sudo hostnamectl set-hostname $HOST_NAME
